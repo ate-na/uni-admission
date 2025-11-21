@@ -1,0 +1,2 @@
+open jupyter from another root directoy
+jupyter notebook --notebook-dir "D:/Programing/crypto project/comments/AIST_Ichimoku"
