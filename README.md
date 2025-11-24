@@ -41,7 +41,6 @@ Dataset: 400 real student records.
 | `adm_data.csv`                      | Clean dataset (400 rows)                                                |
 | `preprocessing.ipynb`               | Unrelated file (football matches) – uploaded by mistake, can be ignored |
 
-> Note: `preprocessing.ipynb` has nothing to do with university admission. Feel free to delete it.
 
 ## How to Run
 
